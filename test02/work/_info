@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bobby/Documents/Verilog/test02
+T_opt
+!s110 1517559026
+Vi=P<gj:_eC[S3KW@[f5ER3
+04 9 4 work count4_tb fast 0
+=1-2c6e85826ce8-5a741cf2-1c6-7814
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vcount4
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 COgFb;>mfAdh;XY0OVPgY1
+IfjfUM[AS:QVMRJ@4ik7il2
+R0
+w1517554810
+8count4.v
+Fcount4.v
+L0 1
+Z2 OL;L;10.4;61
+Z3 !s108 1517561093.088000
+Z4 !s107 count4_tb.v|count4.v|
+Z5 !s90 -reportprogress|300|count4.v|count4_tb.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vcount4_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 J50JPe<Im4aWBJh^f^63W0
+I>bfJ<MT[AW@mJZDb6R6Eh1
+R0
+w1517556281
+8count4_tb.v
+Fcount4_tb.v
+L0 3
+R2
+R3
+R4
+R5
+!i113 0
+R6

@@ -1,0 +1,47 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.4/examples
+T_opt
+!s110 1517549583
+V:11dK6^h8bLG]8B;d]Jhi1
+Z1 04 10 4 work test01_top fast 0
+=1-2c6e85826ce8-5a73f80e-35d-46f0
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.4;61
+R0
+T_opt1
+!s110 1517550619
+VGUL16jV<HiT4e`G5]4Kj61
+R1
+=2-2c6e85826ce8-5a73fc1b-ae-4d78
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt1
+R2
+vtest01_top
+!s110 1517550612
+!i10b 1
+!s100 HljbFJ<WAJYlPl1E7EdcE2
+I1jLoJzWI`Y2e7=3LGSVL[0
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/bobby/Documents/Verilog
+w1517550609
+8C:\Users\bobby\Documents\Verilog\test01.v
+FC:\Users\bobby\Documents\Verilog\test01.v
+L0 3
+OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1517550612.945000
+!s107 C:\Users\bobby\Documents\Verilog\test01.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\bobby\Documents\Verilog\test01.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

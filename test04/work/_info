@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bobby/Documents/Verilog/test04
+vdecode_38
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 0GUn@e`>7bTzgEE@=TKzD3
+I_S>>@=W;G_bIKBUIUXDd50
+R0
+w1517551337
+8decode_38.v
+Fdecode_38.v
+L0 4
+Z2 OL;L;10.4;61
+Z3 !s108 1518157782.146000
+Z4 !s107 decode_38_vlg_tst.v|decode_38.v|
+Z5 !s90 -reportprogress|300|decode_38.v|decode_38_vlg_tst.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vdecode_38_vlg_tst
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Q<0n;Y6eIz;D=MiLOh4=:0
+I59f<?BnY6hVQaEc7CO;lQ3
+R0
+w1517551388
+8decode_38_vlg_tst.v
+Fdecode_38_vlg_tst.v
+L0 2
+R2
+R3
+R4
+R5
+!i113 0
+R6
