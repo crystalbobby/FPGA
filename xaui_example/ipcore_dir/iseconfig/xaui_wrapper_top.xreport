@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-03-07T13:14:15</DateModified>
+  <DateModified>2018-03-07T14:28:34</DateModified>
   <ModuleName>xaui_wrapper_top</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>C:/Users/bobby/Documents/Verilog/xaui_example/ipcore_dir/iseconfig/xaui_wrapper_top.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/bobby/Documents/Verilog/xaui_example/ipcore_dir</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>C:/Users/bobby/Documents/Verilog/xaui_example/ipcore_dir\</ImplementationReportsDirectory>
   <DateInitialized>2018-03-07T13:14:15</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
