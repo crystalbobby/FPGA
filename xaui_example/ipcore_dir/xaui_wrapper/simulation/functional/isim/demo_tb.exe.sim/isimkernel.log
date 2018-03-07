@@ -1,0 +1,28 @@
+Command line:
+   demo_tb.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  4444
+
+Wed Mar 07 13:01:26 2018
+
+
+ Elaboration Time: 3.07322 sec
+
+ Current Memory Usage: 1873.67 Meg
+
+ Total Signals          : 259425
+ Total Nets             : 153780
+ Total Signal Drivers   : 174527
+ Total Blocks           : 40268
+ Total Primitive Blocks : 25693
+ Total Processes        : 181374
+ Total Traceable Variables  : 69533
+ Total Scalar Nets and Variables : 4258024
+
+ Total Simulation Time: 189.791 sec
+
+ Current Memory Usage: 1418.36 Meg
+
+Wed Mar 07 13:07:47 2018
+

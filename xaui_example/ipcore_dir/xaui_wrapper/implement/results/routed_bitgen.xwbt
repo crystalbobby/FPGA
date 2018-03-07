@@ -1,0 +1,7 @@
+INFILE=C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\implement\results\routed.ncd
+OUTFILE=C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\implement\results\routed.bit
+FAMILY=Virtex6 Lower Power
+PART=xc6vlx75tl-1lff784
+WORKINGDIR=C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\implement\results
+LICENSE=WebPack
+USER_INFO=__0_0_0

@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 639: Assignment to <arg fmt="%s" index="1">tied_to_vcc_vec_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 683: Assignment to <arg fmt="%s" index="1">q2_clk1_refclk_i_bufg</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper.v" Line 472: Assignment to <arg fmt="%s" index="1">tied_to_ground_vec_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper.v" Line 473: Assignment to <arg fmt="%s" index="1">tied_to_vcc_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper.v" Line 474: Assignment to <arg fmt="%s" index="1">tied_to_vcc_vec_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper_gtx.v" Line 208: Assignment to <arg fmt="%s" index="1">tied_to_vcc_vec_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper_gtx.v" Line 461: Assignment to <arg fmt="%s" index="1">rxchariscomma_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper_gtx.v" Line 462: Assignment to <arg fmt="%s" index="1">rxcharisk_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper_gtx.v" Line 464: Assignment to <arg fmt="%s" index="1">rxdisperr_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper_gtx.v" Line 465: Assignment to <arg fmt="%s" index="1">rxnotintable_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 744: Assignment to <arg fmt="%s" index="1">gtx0_rxchbondo_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 765: Assignment to <arg fmt="%s" index="1">gtx0_rxelecidle_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 787: Assignment to <arg fmt="%s" index="1">gtx0_drdy_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 788: Assignment to <arg fmt="%s" index="1">gtx0_drpdo_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 862: Assignment to <arg fmt="%s" index="1">gtx1_rxelecidle_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 884: Assignment to <arg fmt="%s" index="1">gtx1_drdy_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 885: Assignment to <arg fmt="%s" index="1">gtx1_drpdo_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 891: Assignment to <arg fmt="%s" index="1">gtx1_txoutclk_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 959: Assignment to <arg fmt="%s" index="1">gtx2_rxelecidle_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 981: Assignment to <arg fmt="%s" index="1">gtx2_drdy_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 982: Assignment to <arg fmt="%s" index="1">gtx2_drpdo_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 988: Assignment to <arg fmt="%s" index="1">gtx2_txoutclk_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1035: Assignment to <arg fmt="%s" index="1">gtx3_rxchbondo_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1056: Assignment to <arg fmt="%s" index="1">gtx3_rxelecidle_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1078: Assignment to <arg fmt="%s" index="1">gtx3_drdy_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1079: Assignment to <arg fmt="%s" index="1">gtx3_drpdo_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1085: Assignment to <arg fmt="%s" index="1">gtx3_txoutclk_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1465: Assignment to <arg fmt="%s" index="1">gtx0_txdata_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1468: Assignment to <arg fmt="%s" index="1">gtx0_txcharisk_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1554: Assignment to <arg fmt="%s" index="1">gtx1_txdata_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1557: Assignment to <arg fmt="%s" index="1">gtx1_txcharisk_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1643: Assignment to <arg fmt="%s" index="1">gtx2_txdata_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1646: Assignment to <arg fmt="%s" index="1">gtx2_txcharisk_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1732: Assignment to <arg fmt="%s" index="1">gtx3_txdata_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1735: Assignment to <arg fmt="%s" index="1">gtx3_txcharisk_float_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\frame_check.v" Line 499: Result of <arg fmt="%d" index="1">10</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">9</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\frame_check.v" Line 499: Result of <arg fmt="%d" index="1">10</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">9</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 1972: Assignment to <arg fmt="%s" index="1">gtx1_inc_out_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 2086: Assignment to <arg fmt="%s" index="1">gtx2_inc_out_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 2200: Assignment to <arg fmt="%s" index="1">gtx3_inc_out_i</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 2649: Empty module &lt;<arg fmt="%s" index="1">data_vio</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 2672: Empty module &lt;<arg fmt="%s" index="1">icon</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 2692: Empty module &lt;<arg fmt="%s" index="1">ila</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 173: Net &lt;<arg fmt="%s" index="1">gtx0_daddr_i[7]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 175: Net &lt;<arg fmt="%s" index="1">gtx0_den_i</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 176: Net &lt;<arg fmt="%s" index="1">gtx0_di_i[15]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 179: Net &lt;<arg fmt="%s" index="1">gtx0_dwe_i</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 256: Net &lt;<arg fmt="%s" index="1">gtx1_daddr_i[7]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 258: Net &lt;<arg fmt="%s" index="1">gtx1_den_i</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 259: Net &lt;<arg fmt="%s" index="1">gtx1_di_i[15]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 262: Net &lt;<arg fmt="%s" index="1">gtx1_dwe_i</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 339: Net &lt;<arg fmt="%s" index="1">gtx2_daddr_i[7]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 341: Net &lt;<arg fmt="%s" index="1">gtx2_den_i</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 342: Net &lt;<arg fmt="%s" index="1">gtx2_di_i[15]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 345: Net &lt;<arg fmt="%s" index="1">gtx2_dwe_i</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 422: Net &lt;<arg fmt="%s" index="1">gtx3_daddr_i[7]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 424: Net &lt;<arg fmt="%s" index="1">gtx3_den_i</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 425: Net &lt;<arg fmt="%s" index="1">gtx3_di_i[15]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v" Line 428: Net &lt;<arg fmt="%s" index="1">gtx3_dwe_i</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">GTXTXRESET_IN</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">GTXRXRESET_IN</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX0_RXCHBONDO_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX0_DRPDO_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX1_DRPDO_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX2_DRPDO_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX3_RXCHBONDO_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX3_DRPDO_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX0_RXELECIDLE_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX0_DRDY_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX1_RXELECIDLE_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX1_DRDY_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX1_TXOUTCLK_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX2_RXELECIDLE_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX2_DRDY_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX2_TXOUTCLK_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX3_RXELECIDLE_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX3_DRDY_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">722</arg>: Output port &lt;<arg fmt="%s" index="3">GTX3_TXOUTCLK_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">1961</arg>: Output port &lt;<arg fmt="%s" index="3">INC_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">gtx1_frame_check</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">2075</arg>: Output port &lt;<arg fmt="%s" index="3">INC_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">gtx2_frame_check</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">2189</arg>: Output port &lt;<arg fmt="%s" index="3">INC_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">gtx3_frame_check</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper\example_design\xaui_wrapper_top.v</arg>&quot; line <arg fmt="%s" index="2">2249</arg>: Output port &lt;<arg fmt="%s" index="3">sync_out</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">chipscope.shared_vio_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx0_daddr_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx0_di_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx1_daddr_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx1_di_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx2_daddr_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx2_di_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx3_daddr_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx3_di_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx0_den_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx0_dwe_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx1_den_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx1_dwe_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx2_den_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx2_dwe_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx3_den_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">gtx3_dwe_i</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper.v</arg>&quot; line <arg fmt="%s" index="2">495</arg>: Output port &lt;<arg fmt="%s" index="3">TXPLLLKDET_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">gtx0_xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper.v</arg>&quot; line <arg fmt="%s" index="2">608</arg>: Output port &lt;<arg fmt="%s" index="3">TXPLLLKDET_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">gtx1_xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper.v</arg>&quot; line <arg fmt="%s" index="2">721</arg>: Output port &lt;<arg fmt="%s" index="3">TXPLLLKDET_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">gtx2_xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\bobby\Documents\Verilog\xaui_example\ipcore_dir\xaui_wrapper.v</arg>&quot; line <arg fmt="%s" index="2">834</arg>: Output port &lt;<arg fmt="%s" index="3">TXPLLLKDET_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">gtx3_xaui_wrapper_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">INC_IN</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="new" >Instance <arg fmt="%s" index="1">U0/I_NO_D.U_ILA/U_CAPSTOR/I_CASE1.I_YES_TB.U_TRACE_BUFFER/U_RAM/I_V6.U_CS_BRAM_CASCADE_V6/I_DEPTH_LTEQ_32K.U_SBRAM_0/I_B36KGT0.G_RAMB36[0].u_ramb36/U_RAMB36</arg> in unit <arg fmt="%s" index="2">U0/I_NO_D.U_ILA/U_CAPSTOR/I_CASE1.I_YES_TB.U_TRACE_BUFFER/U_RAM/I_V6.U_CS_BRAM_CASCADE_V6/I_DEPTH_LTEQ_32K.U_SBRAM_0/I_B36KGT0.G_RAMB36[0].u_ramb36/U_RAMB36</arg> of type <arg fmt="%s" index="3">RAMB36</arg> has been replaced by <arg fmt="%s" index="4">RAMB36E1</arg>
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="new" >Instance <arg fmt="%s" index="1">U0/I_NO_D.U_ILA/U_CAPSTOR/I_CASE1.I_YES_TB.U_TRACE_BUFFER/U_RAM/I_V6.U_CS_BRAM_CASCADE_V6/I_DEPTH_LTEQ_32K.U_SBRAM_0/I_B36KGT0.G_RAMB36[1].u_ramb36/U_RAMB36</arg> in unit <arg fmt="%s" index="2">U0/I_NO_D.U_ILA/U_CAPSTOR/I_CASE1.I_YES_TB.U_TRACE_BUFFER/U_RAM/I_V6.U_CS_BRAM_CASCADE_V6/I_DEPTH_LTEQ_32K.U_SBRAM_0/I_B36KGT0.G_RAMB36[1].u_ramb36/U_RAMB36</arg> of type <arg fmt="%s" index="3">RAMB36</arg> has been replaced by <arg fmt="%s" index="4">RAMB36E1</arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">RX_ENMCOMMA_ALIGN</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">gtx0_frame_check</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;RX_ENPCOMMA_ALIGN&gt; &lt;RX_ENCHAN_SYNC&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">RX_ENMCOMMA_ALIGN</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">gtx1_frame_check</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;RX_ENPCOMMA_ALIGN&gt; &lt;RX_ENCHAN_SYNC&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">RX_ENMCOMMA_ALIGN</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">gtx2_frame_check</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;RX_ENPCOMMA_ALIGN&gt; &lt;RX_ENCHAN_SYNC&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">RX_ENMCOMMA_ALIGN</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">gtx3_frame_check</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;RX_ENPCOMMA_ALIGN&gt; &lt;RX_ENCHAN_SYNC&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">TX_DATA_32</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;TX_DATA_33&gt; &lt;TX_DATA_34&gt; &lt;TX_DATA_35&gt; &lt;TX_DATA_36&gt; &lt;TX_DATA_37&gt; &lt;TX_DATA_38&gt; &lt;TX_DATA_39&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">TX_DATA_32</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;TX_DATA_33&gt; &lt;TX_DATA_34&gt; &lt;TX_DATA_35&gt; &lt;TX_DATA_36&gt; &lt;TX_DATA_37&gt; &lt;TX_DATA_38&gt; &lt;TX_DATA_39&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">TX_DATA_32</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;TX_DATA_33&gt; &lt;TX_DATA_34&gt; &lt;TX_DATA_35&gt; &lt;TX_DATA_36&gt; &lt;TX_DATA_37&gt; &lt;TX_DATA_38&gt; &lt;TX_DATA_39&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">TX_DATA_32</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;TX_DATA_33&gt; &lt;TX_DATA_34&gt; &lt;TX_DATA_35&gt; &lt;TX_DATA_36&gt; &lt;TX_DATA_37&gt; &lt;TX_DATA_38&gt; &lt;TX_DATA_39&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">sel_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">gtx0_frame_check</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">sel_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">gtx1_frame_check</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">sel_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">gtx2_frame_check</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">sel_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">gtx3_frame_check</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_CHARISK_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_CHARISK_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_32</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx0_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_CHARISK_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_CHARISK_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_32</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx1_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_CHARISK_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_CHARISK_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_32</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx2_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_CHARISK_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_CHARISK_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">TX_DATA_32</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">gtx3_frame_gen</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">TX_DATA</arg>&lt;<arg fmt="%d" index="2">39</arg>:<arg fmt="%d" index="3">32</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">FRAME_GEN</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">sel_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">FRAME_CHECK_1</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">sel_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">FRAME_CHECK_2</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">RX_ENMCOMMA_ALIGN</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">FRAME_CHECK_1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;RX_ENPCOMMA_ALIGN&gt; &lt;RX_ENCHAN_SYNC&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">RX_ENMCOMMA_ALIGN</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">FRAME_CHECK_2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;RX_ENPCOMMA_ALIGN&gt; &lt;RX_ENCHAN_SYNC&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">error_count_r_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">FRAME_CHECK_1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">error_count_r_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">FRAME_CHECK_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">sync_counter_r_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_tx_sync</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="new" >Instance <arg fmt="%s" index="1">dual_port_block_ram_i</arg> in unit <arg fmt="%s" index="2">dual_port_block_ram_i</arg> of type <arg fmt="%s" index="3">RAMB16_S36_S36</arg> has been replaced by <arg fmt="%s" index="4">RAMB36E1</arg>
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="new" >Instance <arg fmt="%s" index="1">dual_port_block_ram_i</arg> in unit <arg fmt="%s" index="2">dual_port_block_ram_i</arg> of type <arg fmt="%s" index="3">RAMB16_S36_S36</arg> has been replaced by <arg fmt="%s" index="4">RAMB36E1</arg>
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="new" >Instance <arg fmt="%s" index="1">dual_port_block_ram_i</arg> in unit <arg fmt="%s" index="2">dual_port_block_ram_i</arg> of type <arg fmt="%s" index="3">RAMB16_S36_S36</arg> has been replaced by <arg fmt="%s" index="4">RAMB36E1</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_CHARISK_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx3_frame_gen/TX_CHARISK_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_CHARISK_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx2_frame_gen/TX_CHARISK_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_CHARISK_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx1_frame_gen/TX_CHARISK_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_CHARISK_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">gtx0_frame_gen/TX_CHARISK_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">gtx0_frame_check/start_of_packet_detected_r</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">xaui_wrapper_top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;gtx3_frame_check/start_of_packet_detected_r&gt; &lt;gtx2_frame_check/start_of_packet_detected_r&gt; &lt;gtx1_frame_check/start_of_packet_detected_r&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1513" delta="new" >No elements found for TNM &apos;<arg fmt="%s" index="1">D_CLK</arg>&apos; on object &apos;<arg fmt="%s" index="2">chipscope.ila_i/U0/I_NO_D.U_ILA/U_TRIG/U_TM/G_NMU[0].U_M/I_MC_YES.U_MC/U_GAND_MATCH/I_CS_GAND.U_CS_GAND_SRL/I_V6.U_CS_GAND_SRL_V6/I_USE_RPM_NE0.U_GAND_SRL_SET/CLK_I</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="1513" delta="new" >No elements found for TNM &apos;<arg fmt="%s" index="1">D_CLK</arg>&apos; on object &apos;<arg fmt="%s" index="2">chipscope.ila_i/U0/I_NO_D.U_ILA/U_G2_SQ.U_CAPCTRL/U_CAP_ADDRGEN/U_SCNT_CMP/I_CS_GAND.U_CS_GAND_SRL/I_V6.U_CS_GAND_SRL_V6/I_USE_RPM_NE0.U_GAND_SRL_SET/CLK_I</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="1513" delta="new" >No elements found for TNM &apos;<arg fmt="%s" index="1">D_CLK</arg>&apos; on object &apos;<arg fmt="%s" index="2">chipscope.ila_i/U0/I_NO_D.U_ILA/U_G2_SQ.U_CAPCTRL/U_CAP_ADDRGEN/U_WCNT_HCMP/I_CS_GAND.U_CS_GAND_SRL/I_V6.U_CS_GAND_SRL_V6/I_USE_RPM_NE0.U_GAND_SRL_SET/CLK_I</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="1513" delta="new" >No elements found for TNM &apos;<arg fmt="%s" index="1">D_CLK</arg>&apos; on object &apos;<arg fmt="%s" index="2">chipscope.ila_i/U0/I_NO_D.U_ILA/U_G2_SQ.U_CAPCTRL/U_CAP_ADDRGEN/U_WCNT_LCMP/I_CS_GAND.U_CS_GAND_SRL/I_V6.U_CS_GAND_SRL_V6/I_USE_RPM_NE0.U_GAND_SRL_SET/CLK_I</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="389" delta="new" >Maxfanout less or equal to 1 not allowed, ignored
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.shared_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.rx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[42].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[43].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[44].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[45].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[46].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[47].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[52].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[48].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[53].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[54].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[49].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[50].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[55].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[56].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[51].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[62].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[57].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[63].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[58].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[59].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[60].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[61].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[32].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[33].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[34].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[35].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[36].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[37].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[38].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[39].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[40].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_f_edge/U_DOUT0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">chipscope.tx_data_vio_i</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg> : <arg fmt="%s" index="4">&lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/sync_r_edge/U_DOUT0&gt; &lt;U0/I_VIO/GEN_SYNC_IN[41].SYNC_IN_CELL/USER_CLK_REG&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="new" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

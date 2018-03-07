@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/bobby/Documents/Verilog/xaui_example/ipcore_dir/xaui_wrapper_top.xst" -ofn "C:/Users/bobby/Documents/Verilog/xaui_example/ipcore_dir/xaui_wrapper_top.syr" 

@@ -67,7 +67,8 @@
 ## the unisim libraries will be loaded from the paths set up by compxlib in
 ## your modelsim.ini file
 
-set XILINX   $env(XILINX)
+##set XILINX   $env(XILINX)
+set XILINX     D:/Xilinx/14.7/ISE_DS/ISE
 if [info exists env(MTI_LIBS)] {    
     set MTI_LIBS $env(MTI_LIBS)
     vlib SECUREIP

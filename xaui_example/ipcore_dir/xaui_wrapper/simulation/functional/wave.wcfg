@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="wave_isim.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="DEMO_TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="360" />
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx0_frame_check/begin_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">begin_r</obj_property>
+      <obj_property name="ObjectShortName">begin_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx0_frame_check/track_data_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">track_data_r</obj_property>
+      <obj_property name="ObjectShortName">track_data_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx0_frame_check/data_error_detected_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">data_error_detected_r</obj_property>
+      <obj_property name="ObjectShortName">data_error_detected_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx0_frame_check/start_of_packet_detected_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">start_of_packet_detected_r</obj_property>
+      <obj_property name="ObjectShortName">start_of_packet_detected_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx0_frame_check/RX_DATA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RX_DATA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RX_DATA[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx0_frame_check/ERROR_COUNT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ERROR_COUNT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ERROR_COUNT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx1_frame_check/begin_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">begin_r</obj_property>
+      <obj_property name="ObjectShortName">begin_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx1_frame_check/track_data_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">track_data_r</obj_property>
+      <obj_property name="ObjectShortName">track_data_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx1_frame_check/data_error_detected_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">data_error_detected_r</obj_property>
+      <obj_property name="ObjectShortName">data_error_detected_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx1_frame_check/start_of_packet_detected_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">start_of_packet_detected_r</obj_property>
+      <obj_property name="ObjectShortName">start_of_packet_detected_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx1_frame_check/RX_DATA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RX_DATA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RX_DATA[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx1_frame_check/ERROR_COUNT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ERROR_COUNT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ERROR_COUNT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx2_frame_check/begin_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">begin_r</obj_property>
+      <obj_property name="ObjectShortName">begin_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx2_frame_check/track_data_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">track_data_r</obj_property>
+      <obj_property name="ObjectShortName">track_data_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx2_frame_check/data_error_detected_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">data_error_detected_r</obj_property>
+      <obj_property name="ObjectShortName">data_error_detected_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx2_frame_check/start_of_packet_detected_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">start_of_packet_detected_r</obj_property>
+      <obj_property name="ObjectShortName">start_of_packet_detected_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx2_frame_check/RX_DATA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RX_DATA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RX_DATA[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx2_frame_check/ERROR_COUNT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ERROR_COUNT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ERROR_COUNT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx3_frame_check/begin_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">begin_r</obj_property>
+      <obj_property name="ObjectShortName">begin_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx3_frame_check/track_data_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">track_data_r</obj_property>
+      <obj_property name="ObjectShortName">track_data_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx3_frame_check/data_error_detected_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">data_error_detected_r</obj_property>
+      <obj_property name="ObjectShortName">data_error_detected_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx3_frame_check/start_of_packet_detected_r" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">start_of_packet_detected_r</obj_property>
+      <obj_property name="ObjectShortName">start_of_packet_detected_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx3_frame_check/RX_DATA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RX_DATA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RX_DATA[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/gtx3_frame_check/ERROR_COUNT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ERROR_COUNT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ERROR_COUNT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider25" type="divider">
+      <obj_property name="label">Loopback and Powerdown Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/LOOPBACK_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">LOOPBACK_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">LOOPBACK_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXPOWERDOWN_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPOWERDOWN_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXPOWERDOWN_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXPOWERDOWN_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPOWERDOWN_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPOWERDOWN_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider29" type="divider">
+      <obj_property name="label">Receive Ports - 8b10b Decoder</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXCHARISCOMMA_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHARISCOMMA_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCHARISCOMMA_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXCHARISK_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHARISK_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCHARISK_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXDISPERR_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXDISPERR_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXDISPERR_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXNOTINTABLE_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXNOTINTABLE_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXNOTINTABLE_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider34" type="divider">
+      <obj_property name="label">Receive Ports - Channel Bonding Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXCHANBONDSEQ_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANBONDSEQ_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANBONDSEQ_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXENCHANSYNC_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENCHANSYNC_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENCHANSYNC_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider37" type="divider">
+      <obj_property name="label">Receive Ports - Clock Correction Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXCLKCORCNT_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCLKCORCNT_OUT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCLKCORCNT_OUT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider39" type="divider">
+      <obj_property name="label">Receive Ports - Comma Detection and Alignment</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXBYTEISALIGNED_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBYTEISALIGNED_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXBYTEISALIGNED_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXBYTEREALIGN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBYTEREALIGN_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXBYTEREALIGN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXCOMMADET_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCOMMADET_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCOMMADET_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXENMCOMMAALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENMCOMMAALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENMCOMMAALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXENPCOMMAALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENPCOMMAALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENPCOMMAALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider45" type="divider">
+      <obj_property name="label">Receive Ports - PRBS Detection</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/PRBSCNTRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PRBSCNTRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">PRBSCNTRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXENPRBSTST_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENPRBSTST_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXENPRBSTST_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXPRBSERR_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPRBSERR_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXPRBSERR_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider49" type="divider">
+      <obj_property name="label">Receive Ports - RX Data Path interface</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXDATA_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXDATA_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RXDATA_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXUSRCLK2_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXUSRCLK2_IN</obj_property>
+      <obj_property name="ObjectShortName">RXUSRCLK2_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider53" type="divider">
+      <obj_property name="label">Receive Ports - RX Driver,OOB signalling,Coupling and Eq.,CDR</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXCDRRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCDRRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXCDRRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXELECIDLE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXELECIDLE_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXELECIDLE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXEQMIX_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXEQMIX_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXEQMIX_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXP_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXP_IN</obj_property>
+      <obj_property name="ObjectShortName">RXP_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider59" type="divider">
+      <obj_property name="label">Receive Ports - RX Elastic Buffer and Phase Alignment Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXBUFRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBUFRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXBUFRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXBUFSTATUS_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBUFSTATUS_OUT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXBUFSTATUS_OUT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXCHANISALIGNED_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANISALIGNED_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANISALIGNED_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXCHANREALIGN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANREALIGN_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANREALIGN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider64" type="divider">
+      <obj_property name="label">Receive Ports - RX Loss-of-sync State Machine</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXLOSSOFSYNC_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXLOSSOFSYNC_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXLOSSOFSYNC_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider66" type="divider">
+      <obj_property name="label">Receive Ports - RX PLL Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/GTXRXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GTXRXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">GTXRXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/MGTREFCLKRX_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">MGTREFCLKRX_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MGTREFCLKRX_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/PLLRXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PLLRXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">PLLRXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXPLLLKDET_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPLLLKDET_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXPLLLKDET_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/RXRESETDONE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXRESETDONE_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXRESETDONE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider72" type="divider">
+      <obj_property name="label">Shared Ports - Dynamic Reconfiguration Port (DRP)</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/DADDR_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DADDR_IN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DADDR_IN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/DCLK_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DCLK_IN</obj_property>
+      <obj_property name="ObjectShortName">DCLK_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/DEN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DEN_IN</obj_property>
+      <obj_property name="ObjectShortName">DEN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/DI_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DI_IN[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DI_IN[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/DRDY_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DRDY_OUT</obj_property>
+      <obj_property name="ObjectShortName">DRDY_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/DRPDO_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DRPDO_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DRPDO_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/DWE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DWE_IN</obj_property>
+      <obj_property name="ObjectShortName">DWE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider80" type="divider">
+      <obj_property name="label">Transmit Ports - 8b10b Encoder Control Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXCHARISK_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXCHARISK_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TXCHARISK_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider82" type="divider">
+      <obj_property name="label">Transmit Ports - TX Data Path interface</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXDATA_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDATA_IN[15:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDATA_IN[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXOUTCLK_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXOUTCLK_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXOUTCLK_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">TXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXUSRCLK2_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXUSRCLK2_IN</obj_property>
+      <obj_property name="ObjectShortName">TXUSRCLK2_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider87" type="divider">
+      <obj_property name="label">Transmit Ports - TX Driver and OOB signaling</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXDIFFCTRL_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDIFFCTRL_IN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDIFFCTRL_IN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXN_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXP_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXP_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXP_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXPOSTEMPHASIS_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPOSTEMPHASIS_IN[4:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPOSTEMPHASIS_IN[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider92" type="divider">
+      <obj_property name="label">Transmit Ports - TX Driver and OOB signalling</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXPREEMPHASIS_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPREEMPHASIS_IN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPREEMPHASIS_IN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider94" type="divider">
+      <obj_property name="label">Transmit Ports - TX Elastic Buffer and Phase Alignment Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXDLYALIGNDISABLE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNDISABLE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNDISABLE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXDLYALIGNMONENB_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNMONENB_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNMONENB_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXDLYALIGNMONITOR_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNMONITOR_OUT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNMONITOR_OUT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXDLYALIGNRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXENPMAPHASEALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXENPMAPHASEALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">TXENPMAPHASEALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXPMASETPHASE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPMASETPHASE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXPMASETPHASE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider101" type="divider">
+      <obj_property name="label">Transmit Ports - TX PLL Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/GTXTXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GTXTXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">GTXTXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXRESETDONE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXRESETDONE_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXRESETDONE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider104" type="divider">
+      <obj_property name="label">Transmit Ports - TX PRBS Generator</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXENPRBSTST_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXENPRBSTST_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">TXENPRBSTST_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXPRBSFORCEERR_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPRBSFORCEERR_IN</obj_property>
+      <obj_property name="ObjectShortName">TXPRBSFORCEERR_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider107" type="divider">
+      <obj_property name="label">Transmit Ports - TX Ports for PCI Express</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx0_xaui_wrapper_i/TXELECIDLE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXELECIDLE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXELECIDLE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider109" type="divider">
+      <obj_property name="label">Loopback and Powerdown Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/LOOPBACK_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">LOOPBACK_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">LOOPBACK_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXPOWERDOWN_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPOWERDOWN_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXPOWERDOWN_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXPOWERDOWN_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPOWERDOWN_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPOWERDOWN_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider113" type="divider">
+      <obj_property name="label">Receive Ports - 8b10b Decoder</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXCHARISCOMMA_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHARISCOMMA_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCHARISCOMMA_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXCHARISK_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHARISK_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCHARISK_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXDISPERR_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXDISPERR_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXDISPERR_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXNOTINTABLE_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXNOTINTABLE_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXNOTINTABLE_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider118" type="divider">
+      <obj_property name="label">Receive Ports - Channel Bonding Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXCHANBONDSEQ_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANBONDSEQ_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANBONDSEQ_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXENCHANSYNC_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENCHANSYNC_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENCHANSYNC_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider121" type="divider">
+      <obj_property name="label">Receive Ports - Clock Correction Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXCLKCORCNT_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCLKCORCNT_OUT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCLKCORCNT_OUT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider123" type="divider">
+      <obj_property name="label">Receive Ports - Comma Detection and Alignment</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXBYTEISALIGNED_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBYTEISALIGNED_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXBYTEISALIGNED_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXBYTEREALIGN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBYTEREALIGN_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXBYTEREALIGN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXCOMMADET_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCOMMADET_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCOMMADET_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXENMCOMMAALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENMCOMMAALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENMCOMMAALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXENPCOMMAALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENPCOMMAALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENPCOMMAALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider129" type="divider">
+      <obj_property name="label">Receive Ports - PRBS Detection</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/PRBSCNTRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PRBSCNTRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">PRBSCNTRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXENPRBSTST_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENPRBSTST_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXENPRBSTST_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXPRBSERR_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPRBSERR_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXPRBSERR_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider133" type="divider">
+      <obj_property name="label">Receive Ports - RX Data Path interface</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXDATA_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXDATA_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RXDATA_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXUSRCLK2_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXUSRCLK2_IN</obj_property>
+      <obj_property name="ObjectShortName">RXUSRCLK2_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider137" type="divider">
+      <obj_property name="label">Receive Ports - RX Driver,OOB signalling,Coupling and Eq.,CDR</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXCDRRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCDRRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXCDRRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXELECIDLE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXELECIDLE_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXELECIDLE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXEQMIX_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXEQMIX_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXEQMIX_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXP_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXP_IN</obj_property>
+      <obj_property name="ObjectShortName">RXP_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider143" type="divider">
+      <obj_property name="label">Receive Ports - RX Elastic Buffer and Phase Alignment Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXBUFRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBUFRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXBUFRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXBUFSTATUS_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBUFSTATUS_OUT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXBUFSTATUS_OUT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXCHANISALIGNED_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANISALIGNED_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANISALIGNED_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXCHANREALIGN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANREALIGN_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANREALIGN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider148" type="divider">
+      <obj_property name="label">Receive Ports - RX Loss-of-sync State Machine</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXLOSSOFSYNC_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXLOSSOFSYNC_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXLOSSOFSYNC_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider150" type="divider">
+      <obj_property name="label">Receive Ports - RX PLL Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/GTXRXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GTXRXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">GTXRXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/MGTREFCLKRX_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">MGTREFCLKRX_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MGTREFCLKRX_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/PLLRXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PLLRXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">PLLRXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXPLLLKDET_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPLLLKDET_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXPLLLKDET_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/RXRESETDONE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXRESETDONE_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXRESETDONE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider156" type="divider">
+      <obj_property name="label">Shared Ports - Dynamic Reconfiguration Port (DRP)</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/DADDR_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DADDR_IN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DADDR_IN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/DCLK_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DCLK_IN</obj_property>
+      <obj_property name="ObjectShortName">DCLK_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/DEN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DEN_IN</obj_property>
+      <obj_property name="ObjectShortName">DEN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/DI_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DI_IN[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DI_IN[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/DRDY_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DRDY_OUT</obj_property>
+      <obj_property name="ObjectShortName">DRDY_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/DRPDO_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DRPDO_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DRPDO_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/DWE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DWE_IN</obj_property>
+      <obj_property name="ObjectShortName">DWE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider164" type="divider">
+      <obj_property name="label">Transmit Ports - 8b10b Encoder Control Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXCHARISK_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXCHARISK_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TXCHARISK_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider166" type="divider">
+      <obj_property name="label">Transmit Ports - TX Data Path interface</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXDATA_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDATA_IN[15:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDATA_IN[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXOUTCLK_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXOUTCLK_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXOUTCLK_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">TXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXUSRCLK2_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXUSRCLK2_IN</obj_property>
+      <obj_property name="ObjectShortName">TXUSRCLK2_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider171" type="divider">
+      <obj_property name="label">Transmit Ports - TX Driver and OOB signaling</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXDIFFCTRL_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDIFFCTRL_IN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDIFFCTRL_IN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXN_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXP_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXP_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXP_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXPOSTEMPHASIS_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPOSTEMPHASIS_IN[4:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPOSTEMPHASIS_IN[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider176" type="divider">
+      <obj_property name="label">Transmit Ports - TX Driver and OOB signalling</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXPREEMPHASIS_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPREEMPHASIS_IN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPREEMPHASIS_IN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider178" type="divider">
+      <obj_property name="label">Transmit Ports - TX Elastic Buffer and Phase Alignment Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXDLYALIGNDISABLE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNDISABLE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNDISABLE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXDLYALIGNMONENB_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNMONENB_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNMONENB_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXDLYALIGNMONITOR_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNMONITOR_OUT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNMONITOR_OUT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXDLYALIGNRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXENPMAPHASEALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXENPMAPHASEALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">TXENPMAPHASEALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXPMASETPHASE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPMASETPHASE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXPMASETPHASE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider185" type="divider">
+      <obj_property name="label">Transmit Ports - TX PLL Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/GTXTXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GTXTXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">GTXTXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXRESETDONE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXRESETDONE_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXRESETDONE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider188" type="divider">
+      <obj_property name="label">Transmit Ports - TX PRBS Generator</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXENPRBSTST_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXENPRBSTST_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">TXENPRBSTST_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXPRBSFORCEERR_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPRBSFORCEERR_IN</obj_property>
+      <obj_property name="ObjectShortName">TXPRBSFORCEERR_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider191" type="divider">
+      <obj_property name="label">Transmit Ports - TX Ports for PCI Express</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx1_xaui_wrapper_i/TXELECIDLE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXELECIDLE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXELECIDLE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider193" type="divider">
+      <obj_property name="label">Loopback and Powerdown Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/LOOPBACK_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">LOOPBACK_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">LOOPBACK_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXPOWERDOWN_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPOWERDOWN_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXPOWERDOWN_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXPOWERDOWN_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPOWERDOWN_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPOWERDOWN_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider197" type="divider">
+      <obj_property name="label">Receive Ports - 8b10b Decoder</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXCHARISCOMMA_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHARISCOMMA_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCHARISCOMMA_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXCHARISK_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHARISK_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCHARISK_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXDISPERR_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXDISPERR_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXDISPERR_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXNOTINTABLE_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXNOTINTABLE_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXNOTINTABLE_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider202" type="divider">
+      <obj_property name="label">Receive Ports - Channel Bonding Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXCHANBONDSEQ_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANBONDSEQ_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANBONDSEQ_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXENCHANSYNC_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENCHANSYNC_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENCHANSYNC_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider205" type="divider">
+      <obj_property name="label">Receive Ports - Clock Correction Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXCLKCORCNT_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCLKCORCNT_OUT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCLKCORCNT_OUT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider207" type="divider">
+      <obj_property name="label">Receive Ports - Comma Detection and Alignment</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXBYTEISALIGNED_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBYTEISALIGNED_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXBYTEISALIGNED_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXBYTEREALIGN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBYTEREALIGN_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXBYTEREALIGN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXCOMMADET_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCOMMADET_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCOMMADET_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXENMCOMMAALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENMCOMMAALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENMCOMMAALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXENPCOMMAALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENPCOMMAALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENPCOMMAALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider213" type="divider">
+      <obj_property name="label">Receive Ports - PRBS Detection</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/PRBSCNTRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PRBSCNTRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">PRBSCNTRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXENPRBSTST_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENPRBSTST_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXENPRBSTST_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXPRBSERR_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPRBSERR_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXPRBSERR_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider217" type="divider">
+      <obj_property name="label">Receive Ports - RX Data Path interface</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXDATA_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXDATA_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RXDATA_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXUSRCLK2_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXUSRCLK2_IN</obj_property>
+      <obj_property name="ObjectShortName">RXUSRCLK2_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider221" type="divider">
+      <obj_property name="label">Receive Ports - RX Driver,OOB signalling,Coupling and Eq.,CDR</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXCDRRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCDRRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXCDRRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXELECIDLE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXELECIDLE_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXELECIDLE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXEQMIX_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXEQMIX_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXEQMIX_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXP_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXP_IN</obj_property>
+      <obj_property name="ObjectShortName">RXP_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider227" type="divider">
+      <obj_property name="label">Receive Ports - RX Elastic Buffer and Phase Alignment Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXBUFRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBUFRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXBUFRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXBUFSTATUS_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBUFSTATUS_OUT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXBUFSTATUS_OUT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXCHANISALIGNED_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANISALIGNED_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANISALIGNED_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXCHANREALIGN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANREALIGN_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANREALIGN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider232" type="divider">
+      <obj_property name="label">Receive Ports - RX Loss-of-sync State Machine</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXLOSSOFSYNC_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXLOSSOFSYNC_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXLOSSOFSYNC_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider234" type="divider">
+      <obj_property name="label">Receive Ports - RX PLL Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/GTXRXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GTXRXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">GTXRXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/MGTREFCLKRX_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">MGTREFCLKRX_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MGTREFCLKRX_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/PLLRXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PLLRXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">PLLRXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXPLLLKDET_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPLLLKDET_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXPLLLKDET_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/RXRESETDONE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXRESETDONE_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXRESETDONE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider240" type="divider">
+      <obj_property name="label">Shared Ports - Dynamic Reconfiguration Port (DRP)</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/DADDR_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DADDR_IN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DADDR_IN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/DCLK_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DCLK_IN</obj_property>
+      <obj_property name="ObjectShortName">DCLK_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/DEN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DEN_IN</obj_property>
+      <obj_property name="ObjectShortName">DEN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/DI_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DI_IN[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DI_IN[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/DRDY_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DRDY_OUT</obj_property>
+      <obj_property name="ObjectShortName">DRDY_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/DRPDO_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DRPDO_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DRPDO_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/DWE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DWE_IN</obj_property>
+      <obj_property name="ObjectShortName">DWE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider248" type="divider">
+      <obj_property name="label">Transmit Ports - 8b10b Encoder Control Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXCHARISK_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXCHARISK_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TXCHARISK_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider250" type="divider">
+      <obj_property name="label">Transmit Ports - TX Data Path interface</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXDATA_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDATA_IN[15:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDATA_IN[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXOUTCLK_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXOUTCLK_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXOUTCLK_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">TXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXUSRCLK2_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXUSRCLK2_IN</obj_property>
+      <obj_property name="ObjectShortName">TXUSRCLK2_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider255" type="divider">
+      <obj_property name="label">Transmit Ports - TX Driver and OOB signaling</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXDIFFCTRL_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDIFFCTRL_IN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDIFFCTRL_IN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXN_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXP_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXP_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXP_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXPOSTEMPHASIS_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPOSTEMPHASIS_IN[4:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPOSTEMPHASIS_IN[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider260" type="divider">
+      <obj_property name="label">Transmit Ports - TX Driver and OOB signalling</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXPREEMPHASIS_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPREEMPHASIS_IN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPREEMPHASIS_IN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider262" type="divider">
+      <obj_property name="label">Transmit Ports - TX Elastic Buffer and Phase Alignment Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXDLYALIGNDISABLE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNDISABLE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNDISABLE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXDLYALIGNMONENB_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNMONENB_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNMONENB_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXDLYALIGNMONITOR_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNMONITOR_OUT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNMONITOR_OUT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXDLYALIGNRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXENPMAPHASEALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXENPMAPHASEALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">TXENPMAPHASEALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXPMASETPHASE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPMASETPHASE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXPMASETPHASE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider269" type="divider">
+      <obj_property name="label">Transmit Ports - TX PLL Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/GTXTXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GTXTXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">GTXTXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXRESETDONE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXRESETDONE_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXRESETDONE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider272" type="divider">
+      <obj_property name="label">Transmit Ports - TX PRBS Generator</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXENPRBSTST_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXENPRBSTST_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">TXENPRBSTST_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXPRBSFORCEERR_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPRBSFORCEERR_IN</obj_property>
+      <obj_property name="ObjectShortName">TXPRBSFORCEERR_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider275" type="divider">
+      <obj_property name="label">Transmit Ports - TX Ports for PCI Express</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx2_xaui_wrapper_i/TXELECIDLE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXELECIDLE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXELECIDLE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider277" type="divider">
+      <obj_property name="label">Loopback and Powerdown Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/LOOPBACK_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">LOOPBACK_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">LOOPBACK_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXPOWERDOWN_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPOWERDOWN_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXPOWERDOWN_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXPOWERDOWN_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPOWERDOWN_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPOWERDOWN_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider281" type="divider">
+      <obj_property name="label">Receive Ports - 8b10b Decoder</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXCHARISCOMMA_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHARISCOMMA_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCHARISCOMMA_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXCHARISK_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHARISK_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCHARISK_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXDISPERR_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXDISPERR_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXDISPERR_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXNOTINTABLE_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXNOTINTABLE_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXNOTINTABLE_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider286" type="divider">
+      <obj_property name="label">Receive Ports - Channel Bonding Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXCHANBONDSEQ_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANBONDSEQ_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANBONDSEQ_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXENCHANSYNC_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENCHANSYNC_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENCHANSYNC_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider289" type="divider">
+      <obj_property name="label">Receive Ports - Clock Correction Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXCLKCORCNT_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCLKCORCNT_OUT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXCLKCORCNT_OUT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider291" type="divider">
+      <obj_property name="label">Receive Ports - Comma Detection and Alignment</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXBYTEISALIGNED_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBYTEISALIGNED_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXBYTEISALIGNED_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXBYTEREALIGN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBYTEREALIGN_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXBYTEREALIGN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXCOMMADET_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCOMMADET_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCOMMADET_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXENMCOMMAALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENMCOMMAALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENMCOMMAALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXENPCOMMAALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENPCOMMAALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXENPCOMMAALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider297" type="divider">
+      <obj_property name="label">Receive Ports - PRBS Detection</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/PRBSCNTRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PRBSCNTRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">PRBSCNTRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXENPRBSTST_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXENPRBSTST_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXENPRBSTST_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXPRBSERR_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPRBSERR_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXPRBSERR_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider301" type="divider">
+      <obj_property name="label">Receive Ports - RX Data Path interface</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXDATA_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXDATA_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RXDATA_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXUSRCLK2_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXUSRCLK2_IN</obj_property>
+      <obj_property name="ObjectShortName">RXUSRCLK2_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider305" type="divider">
+      <obj_property name="label">Receive Ports - RX Driver,OOB signalling,Coupling and Eq.,CDR</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXCDRRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCDRRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXCDRRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXELECIDLE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXELECIDLE_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXELECIDLE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXEQMIX_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXEQMIX_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXEQMIX_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXN_IN</obj_property>
+      <obj_property name="ObjectShortName">RXN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXP_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXP_IN</obj_property>
+      <obj_property name="ObjectShortName">RXP_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider311" type="divider">
+      <obj_property name="label">Receive Ports - RX Elastic Buffer and Phase Alignment Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXBUFRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBUFRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RXBUFRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXBUFSTATUS_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXBUFSTATUS_OUT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RXBUFSTATUS_OUT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXCHANISALIGNED_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANISALIGNED_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANISALIGNED_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXCHANREALIGN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXCHANREALIGN_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXCHANREALIGN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider316" type="divider">
+      <obj_property name="label">Receive Ports - RX Loss-of-sync State Machine</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXLOSSOFSYNC_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RXLOSSOFSYNC_OUT[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RXLOSSOFSYNC_OUT[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider318" type="divider">
+      <obj_property name="label">Receive Ports - RX PLL Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/GTXRXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GTXRXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">GTXRXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/MGTREFCLKRX_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">MGTREFCLKRX_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MGTREFCLKRX_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/PLLRXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PLLRXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">PLLRXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXPLLLKDET_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXPLLLKDET_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXPLLLKDET_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/RXRESETDONE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RXRESETDONE_OUT</obj_property>
+      <obj_property name="ObjectShortName">RXRESETDONE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider324" type="divider">
+      <obj_property name="label">Shared Ports - Dynamic Reconfiguration Port (DRP)</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/DADDR_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DADDR_IN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DADDR_IN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/DCLK_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DCLK_IN</obj_property>
+      <obj_property name="ObjectShortName">DCLK_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/DEN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DEN_IN</obj_property>
+      <obj_property name="ObjectShortName">DEN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/DI_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DI_IN[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DI_IN[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/DRDY_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DRDY_OUT</obj_property>
+      <obj_property name="ObjectShortName">DRDY_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/DRPDO_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DRPDO_OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DRPDO_OUT[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/DWE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DWE_IN</obj_property>
+      <obj_property name="ObjectShortName">DWE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider332" type="divider">
+      <obj_property name="label">Transmit Ports - 8b10b Encoder Control Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXCHARISK_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXCHARISK_IN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">TXCHARISK_IN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider334" type="divider">
+      <obj_property name="label">Transmit Ports - TX Data Path interface</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXDATA_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDATA_IN[15:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDATA_IN[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXOUTCLK_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXOUTCLK_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXOUTCLK_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">TXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXUSRCLK2_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXUSRCLK2_IN</obj_property>
+      <obj_property name="ObjectShortName">TXUSRCLK2_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider339" type="divider">
+      <obj_property name="label">Transmit Ports - TX Driver and OOB signaling</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXDIFFCTRL_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDIFFCTRL_IN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDIFFCTRL_IN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXN_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXN_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXN_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXP_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXP_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXP_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXPOSTEMPHASIS_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPOSTEMPHASIS_IN[4:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPOSTEMPHASIS_IN[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider344" type="divider">
+      <obj_property name="label">Transmit Ports - TX Driver and OOB signalling</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXPREEMPHASIS_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPREEMPHASIS_IN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">TXPREEMPHASIS_IN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider346" type="divider">
+      <obj_property name="label">Transmit Ports - TX Elastic Buffer and Phase Alignment Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXDLYALIGNDISABLE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNDISABLE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNDISABLE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXDLYALIGNMONENB_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNMONENB_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNMONENB_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXDLYALIGNMONITOR_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNMONITOR_OUT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNMONITOR_OUT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXDLYALIGNRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXDLYALIGNRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">TXDLYALIGNRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXENPMAPHASEALIGN_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXENPMAPHASEALIGN_IN</obj_property>
+      <obj_property name="ObjectShortName">TXENPMAPHASEALIGN_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXPMASETPHASE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPMASETPHASE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXPMASETPHASE_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider353" type="divider">
+      <obj_property name="label">Transmit Ports - TX PLL Ports</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/GTXTXRESET_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">GTXTXRESET_IN</obj_property>
+      <obj_property name="ObjectShortName">GTXTXRESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXRESETDONE_OUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXRESETDONE_OUT</obj_property>
+      <obj_property name="ObjectShortName">TXRESETDONE_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider356" type="divider">
+      <obj_property name="label">Transmit Ports - TX PRBS Generator</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXENPRBSTST_IN" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">TXENPRBSTST_IN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">TXENPRBSTST_IN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXPRBSFORCEERR_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXPRBSFORCEERR_IN</obj_property>
+      <obj_property name="ObjectShortName">TXPRBSFORCEERR_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider359" type="divider">
+      <obj_property name="label">Transmit Ports - TX Ports for PCI Express</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/DEMO_TB/xaui_wrapper_top_i/xaui_wrapper_i/gtx3_xaui_wrapper_i/TXELECIDLE_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TXELECIDLE_IN</obj_property>
+      <obj_property name="ObjectShortName">TXELECIDLE_IN</obj_property>
+   </wvobject>
+</wave_config>

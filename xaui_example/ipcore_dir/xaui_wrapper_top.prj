@@ -1,0 +1,6 @@
+verilog work "xaui_wrapper_gtx.v"
+verilog work "xaui_wrapper/example_design/xaui_wrapper_tx_sync.v"
+verilog work "xaui_wrapper/example_design/frame_gen.v"
+verilog work "xaui_wrapper/example_design/frame_check.v"
+verilog work "xaui_wrapper.v"
+verilog work "xaui_wrapper/example_design/xaui_wrapper_top.v"

@@ -8,33 +8,5 @@
 <msg type="info" file="sim" num="172" delta="old" >Generating IP...
 </msg>
 
-<msg type="warning" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Component v6_gtxwizard_v1_12 does not have a valid model name for Verilog synthesis</arg>
-</msg>
-
-<msg type="warning" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Overwriting existing file C:/Users/bobby/Xilinx/Projects/xaui_example/ipcore_dir/tmp/_cg/xaui_wrapper/doc/ug516_v6_gtxwizard.pdf with file from view xilinx_documentation</arg>
-</msg>
-
-<msg type="info" file="sim" num="993" delta="new" >The selected IP does not support an ASY schematic symbol.
-</msg>
-
-<msg type="info" file="sim" num="949" delta="new" >Finished generation of ASY schematic symbol.
-</msg>
-
-<msg type="warning" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">The chosen IP does not support an SYM schematic symbol.</arg>
-</msg>
-
-<msg type="warning" file="coreutil" num="0" delta="new" >WARNING:ProjectMgmt - Failed to confirm that part information for the file
-   &quot;C:/Users/bobby/Xilinx/Projects/xaui_example/ipcore_dir/tmp/_cg/xaui_wrapper/
-   implement/ila.ngc&quot; matches the current project settings.
-Adding C:/Users/bobby/Xilinx/Projects/xaui_example/ipcore_dir/tmp/_cg/xaui_wrapper.veo -view all -origin_type imported
-</msg>
-
-<msg type="warning" file="coreutil" num="0" delta="new" >WARNING: This core does not have a top level called &quot;/xaui_wrapper&quot;
-WARNING: Top level has been set to &quot;/xaui_wrapper_top&quot;
-</msg>
-
-<msg type="info" file="sim" num="948" delta="new" >Finished FLIST file generation.
-</msg>
-
 </messages>
 

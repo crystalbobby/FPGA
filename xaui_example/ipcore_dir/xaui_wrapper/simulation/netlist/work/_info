@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bobby/Documents/Verilog/xaui_example/ipcore_dir/xaui_wrapper/simulation/netlist
+T_opt
+!s110 1520400507
+V;[3=oG0l=@[51IGJD23<b1
+04 11 4 work DEMO_TB_IMP fast 0
+04 4 4 work glbl fast 0
+=1-2c6e85826ce8-5a9f7875-9e-13a4
+o-quiet -auto_acc_if_foreign -work work -L SECUREIP -L SIMPRIMS_VER -sdfmax DEMO_TB_IMP/xaui_wrapper_top_i=../../implement/results/routed.sdf -suppress 1948 +acc
+n@_opt
+OL;O;10.4;61
+R0
+vDEMO_TB_IMP
+Z1 !s110 1520401220
+!i10b 1
+!s100 _TzElX^;h:?LigdkhQll_1
+I=?[`l;PiIeTfZJj[nJ;oZ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1520387906
+8../demo_tb_imp.v
+F../demo_tb_imp.v
+L0 66
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1520401220.275000
+!s107 ../demo_tb_imp.v|
+!s90 -reportprogress|300|-work|work|../demo_tb_imp.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@d@e@m@o_@t@b_@i@m@p
+vglbl
+R1
+!i10b 1
+!s100 UlJ]9LUWO:ZWoRO62F9fW3
+I8>;kG<XeT6;A0=SPgiD<71
+R2
+R0
+w1381681120
+8D:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v
+FD:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1520401220.081000
+!s107 D:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v|
+!s90 -reportprogress|300|-work|work|D:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v|
+!i113 0
+R4
+vxaui_wrapper_top
+!s110 1520401219
+!i10b 1
+!s100 1E_8IMGckTAK54mZG3;0]3
+IJ]OO:N_@e95dW>0mPL^6<3
+R2
+R0
+w1520399566
+8../../implement/results/routed.v
+F../../implement/results/routed.v
+L0 36
+R3
+r1
+!s85 0
+31
+!s108 1520401218.996000
+!s107 ../../implement/results/routed.v|
+!s90 -reportprogress|300|-work|work|../../implement/results/routed.v|
+!i113 0
+R4

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="ConstraintSystem" num="0" >Constraint &lt;NET &quot;drp_clk_in_i&quot; TNM_NET = &quot;drp_clk_in_i&quot;;&gt; [../../example_design/xaui_wrapper_top.ucf(72)] was not distributed to the output pin TXOUTCLK of block xaui_wrapper_i/gtx0_xaui_wrapper_i/gtxe1_i because the signal path to this output pin depends upon block attribute settings. Constraint distribution does not support attribute dependent distribution.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="440" delta="new" >FF primitive &apos;<arg fmt="%s" index="1">gtx3_frame_check/register_chan_seq[0].rx_chanbond_reg_0</arg>&apos; has unconnected output pin
+</msg>
+
+<msg type="warning" file="NgdBuild" num="440" delta="new" >FF primitive &apos;<arg fmt="%s" index="1">gtx2_frame_check/register_chan_seq[0].rx_chanbond_reg_0</arg>&apos; has unconnected output pin
+</msg>
+
+<msg type="warning" file="NgdBuild" num="440" delta="new" >FF primitive &apos;<arg fmt="%s" index="1">gtx1_frame_check/register_chan_seq[0].rx_chanbond_reg_0</arg>&apos; has unconnected output pin
+</msg>
+
+</messages>
+
