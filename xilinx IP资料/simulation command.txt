@@ -1,0 +1,6 @@
+cd C:/Users/bobby/Xilinx/Projects/xaui_example/ipcore_dir/xaui_wrapper/simulation/functional
+
+
+cd C:/Users/bobby/Documents/Verilog/ddr3/ipcore_dir/DDR3/example_design/sim
+
+do sim.do

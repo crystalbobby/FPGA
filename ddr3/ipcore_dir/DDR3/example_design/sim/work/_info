@@ -22,13 +22,14 @@ Z2 w1517380903
 F../../user_design/rtl/DDR3.v
 Z3 L0 74
 Z4 OL;L;10.4;61
-!s108 1520406195.335000
+!s108 1520409236.834000
 !s107 ../../user_design/rtl/DDR3.v|
 !s90 -reportprogress|300|../../user_design/rtl/DDR3.v|
 !i113 0
 Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 n@d@d@r3
 vddr3_model
+Z6 !s10a 1517380907
 R1
 r1
 !s85 0
@@ -37,11 +38,11 @@ r1
 !s100 Hjb>?B<3iPJjZdUFOLjP43
 I1:bIPgO70J78oZXQ=CU363
 R0
-Z6 w1517380907
+Z7 w1517380907
 8ddr3_model.v
 Fddr3_model.v
 Fddr3_model_parameters.vh
-Z7 L0 87
+Z8 L0 87
 R4
 !s108 1520406199.047000
 !s107 ddr3_model_parameters.vh|ddr3_model.v|
@@ -58,17 +59,18 @@ r1
 !s100 MOJXIMY1z^22JCFZI74T=3
 IL;5^WM03Y4JF7UX6MezF?2
 R0
-R6
+R7
 8../rtl/example_top.v
 F../rtl/example_top.v
 R3
 R4
-!s108 1520406194.153000
+!s108 1520409236.116000
 !s107 ../rtl/example_top.v|
 !s90 -reportprogress|300|../rtl/example_top.v|
 !i113 0
 R5
 vglbl
+!s10a 1381681120
 R1
 r1
 !s85 0
@@ -88,191 +90,191 @@ R4
 !i113 0
 R5
 vmig_7series_v1_9_afifo
+Z9 !s10a 1381688930
 R1
 r1
 !s85 0
 31
-Z8 !s10a 1381688930
 !i10b 1
 !s100 ^iIQOL^=[jk@@L2YEW1Ij3
 IX_gESAohnh[B@06:NB^Xd0
 R0
-Z9 w1381688930
+Z10 w1381688930
 8../rtl/traffic_gen/mig_7series_v1_9_afifo.v
 F../rtl/traffic_gen/mig_7series_v1_9_afifo.v
-Z10 L0 69
+Z11 L0 69
 R4
-Z11 !s108 1520405916.024000
-Z12 !s107 ../rtl/traffic_gen/mig_7series_v1_9_write_data_path.v|../rtl/traffic_gen/mig_7series_v1_9_wr_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_vio_init_pattern_bram.v|../rtl/traffic_gen/mig_7series_v1_9_traffic_gen_top.v|../rtl/traffic_gen/mig_7series_v1_9_tg_status.v|../rtl/traffic_gen/mig_7series_v1_9_tg_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_s7ven_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_read_posted_fifo.v|../rtl/traffic_gen/mig_7series_v1_9_read_data_path.v|../rtl/traffic_gen/mig_7series_v1_9_rd_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_memc_traffic_gen.v|../rtl/traffic_gen/mig_7series_v1_9_memc_flow_vcontrol.v|../rtl/traffic_gen/mig_7series_v1_9_init_mem_pattern_ctr.v|../rtl/traffic_gen/mig_7series_v1_9_data_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_cmd_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_cmd_gen.v|../rtl/traffic_gen/mig_7series_v1_9_afifo.v|
-Z13 !s90 -reportprogress|300|-incr|../rtl/traffic_gen/mig_7series_v1_9_afifo.v|../rtl/traffic_gen/mig_7series_v1_9_cmd_gen.v|../rtl/traffic_gen/mig_7series_v1_9_cmd_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_data_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_init_mem_pattern_ctr.v|../rtl/traffic_gen/mig_7series_v1_9_memc_flow_vcontrol.v|../rtl/traffic_gen/mig_7series_v1_9_memc_traffic_gen.v|../rtl/traffic_gen/mig_7series_v1_9_rd_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_read_data_path.v|../rtl/traffic_gen/mig_7series_v1_9_read_posted_fifo.v|../rtl/traffic_gen/mig_7series_v1_9_s7ven_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_tg_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_tg_status.v|../rtl/traffic_gen/mig_7series_v1_9_traffic_gen_top.v|../rtl/traffic_gen/mig_7series_v1_9_vio_init_pattern_bram.v|../rtl/traffic_gen/mig_7series_v1_9_wr_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_write_data_path.v|
+Z12 !s108 1520405916.024000
+Z13 !s107 ../rtl/traffic_gen/mig_7series_v1_9_write_data_path.v|../rtl/traffic_gen/mig_7series_v1_9_wr_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_vio_init_pattern_bram.v|../rtl/traffic_gen/mig_7series_v1_9_traffic_gen_top.v|../rtl/traffic_gen/mig_7series_v1_9_tg_status.v|../rtl/traffic_gen/mig_7series_v1_9_tg_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_s7ven_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_read_posted_fifo.v|../rtl/traffic_gen/mig_7series_v1_9_read_data_path.v|../rtl/traffic_gen/mig_7series_v1_9_rd_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_memc_traffic_gen.v|../rtl/traffic_gen/mig_7series_v1_9_memc_flow_vcontrol.v|../rtl/traffic_gen/mig_7series_v1_9_init_mem_pattern_ctr.v|../rtl/traffic_gen/mig_7series_v1_9_data_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_cmd_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_cmd_gen.v|../rtl/traffic_gen/mig_7series_v1_9_afifo.v|
+Z14 !s90 -reportprogress|300|-incr|../rtl/traffic_gen/mig_7series_v1_9_afifo.v|../rtl/traffic_gen/mig_7series_v1_9_cmd_gen.v|../rtl/traffic_gen/mig_7series_v1_9_cmd_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_data_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_init_mem_pattern_ctr.v|../rtl/traffic_gen/mig_7series_v1_9_memc_flow_vcontrol.v|../rtl/traffic_gen/mig_7series_v1_9_memc_traffic_gen.v|../rtl/traffic_gen/mig_7series_v1_9_rd_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_read_data_path.v|../rtl/traffic_gen/mig_7series_v1_9_read_posted_fifo.v|../rtl/traffic_gen/mig_7series_v1_9_s7ven_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_tg_prbs_gen.v|../rtl/traffic_gen/mig_7series_v1_9_tg_status.v|../rtl/traffic_gen/mig_7series_v1_9_traffic_gen_top.v|../rtl/traffic_gen/mig_7series_v1_9_vio_init_pattern_bram.v|../rtl/traffic_gen/mig_7series_v1_9_wr_data_gen.v|../rtl/traffic_gen/mig_7series_v1_9_write_data_path.v|
 !i113 0
 R5
 vmig_7series_v1_9_arb_mux
+Z15 !s10a 1517380902
 R1
 r1
 !s85 0
 31
-Z14 !s10a 1517380902
 !i10b 1
 !s100 oka_b;@XZL2eAS2OCf5@l2
 IF6YdCkaeNk51_23`YH]l63
 R0
-Z15 w1517380902
+Z16 w1517380902
 8../../user_design/rtl/controller/mig_7series_v1_9_arb_mux.v
 F../../user_design/rtl/controller/mig_7series_v1_9_arb_mux.v
-R10
+R11
 R4
-Z16 !s108 1520405917.285000
-Z17 !s107 ../../user_design/rtl/controller/mig_7series_v1_9_round_robin_arb.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_common.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_cntrl.v|../../user_design/rtl/controller/mig_7series_v1_9_mc.v|../../user_design/rtl/controller/mig_7series_v1_9_col_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_state.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_queue.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_compare.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_common.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_cntrl.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_select.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_row_col.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_mux.v|
-Z18 !s90 -reportprogress|300|-incr|../../user_design/rtl/controller/mig_7series_v1_9_arb_mux.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_row_col.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_select.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_cntrl.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_common.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_compare.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_queue.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_state.v|../../user_design/rtl/controller/mig_7series_v1_9_col_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_mc.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_cntrl.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_common.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_round_robin_arb.v|
+Z17 !s108 1520405917.285000
+Z18 !s107 ../../user_design/rtl/controller/mig_7series_v1_9_round_robin_arb.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_common.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_cntrl.v|../../user_design/rtl/controller/mig_7series_v1_9_mc.v|../../user_design/rtl/controller/mig_7series_v1_9_col_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_state.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_queue.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_compare.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_common.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_cntrl.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_select.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_row_col.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_mux.v|
+Z19 !s90 -reportprogress|300|-incr|../../user_design/rtl/controller/mig_7series_v1_9_arb_mux.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_row_col.v|../../user_design/rtl/controller/mig_7series_v1_9_arb_select.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_cntrl.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_common.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_compare.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_queue.v|../../user_design/rtl/controller/mig_7series_v1_9_bank_state.v|../../user_design/rtl/controller/mig_7series_v1_9_col_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_mc.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_cntrl.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_common.v|../../user_design/rtl/controller/mig_7series_v1_9_rank_mach.v|../../user_design/rtl/controller/mig_7series_v1_9_round_robin_arb.v|
 !i113 0
 R5
 vmig_7series_v1_9_arb_row_col
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 :ODn]Z4M5B]YgUJ`Kgj?W2
 IAN<MJnSWAHV75N535z@P?3
 R0
-R15
+R16
 8../../user_design/rtl/controller/mig_7series_v1_9_arb_row_col.v
 F../../user_design/rtl/controller/mig_7series_v1_9_arb_row_col.v
 L0 83
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_arb_select
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 @9gQ@Q4]`AOB;BnO:[jSz1
 I]lS9aalXnFHOKCCjY8TY81
 R0
-R15
+R16
 8../../user_design/rtl/controller/mig_7series_v1_9_arb_select.v
 F../../user_design/rtl/controller/mig_7series_v1_9_arb_select.v
 L0 75
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_bank_cntrl
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 Jb5aJ44jM_g>dDYQ@@=;:2
 IIIHk31b0OS4Sf64MLVOB]2
 R0
-R15
+R16
 8../../user_design/rtl/controller/mig_7series_v1_9_bank_cntrl.v
 F../../user_design/rtl/controller/mig_7series_v1_9_bank_cntrl.v
-Z19 L0 70
+Z20 L0 70
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_bank_common
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 5GjTE<EQIc:0e83fl5Ie40
 IdgmTXzgIDLW5^iUmAOToT2
 R0
-R15
+R16
 8../../user_design/rtl/controller/mig_7series_v1_9_bank_common.v
 F../../user_design/rtl/controller/mig_7series_v1_9_bank_common.v
-Z20 L0 73
+Z21 L0 73
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_bank_compare
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 GjFzH4A1OiR:73@?XJaXX0
 Ib`iQhG@[0O[blgRXIBcOk2
 R0
-R15
+R16
 8../../user_design/rtl/controller/mig_7series_v1_9_bank_compare.v
 F../../user_design/rtl/controller/mig_7series_v1_9_bank_compare.v
 R3
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_bank_mach
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 b4^3RMUKMeHZcbdHPYz@B1
 Iao0LGjZLTQmX:eID4QF0o3
 R0
-R15
+R16
 8../../user_design/rtl/controller/mig_7series_v1_9_bank_mach.v
 F../../user_design/rtl/controller/mig_7series_v1_9_bank_mach.v
-Z21 L0 72
+Z22 L0 72
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_bank_queue
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 ioej6j<mfD2jz`A_id<Fe3
 IgL2XkRVN<LihaHDi]da;b1
 R0
-R15
+R16
 8../../user_design/rtl/controller/mig_7series_v1_9_bank_queue.v
 F../../user_design/rtl/controller/mig_7series_v1_9_bank_queue.v
 L0 174
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_bank_state
+Z23 !s10a 1517380903
 R1
 r1
 !s85 0
 31
-Z22 !s10a 1517380903
 !i10b 1
 !s100 :iaTh10obE^2CVz9YZ5f_0
 IIVZ?@HFG:@Yi_[loK7NYL3
@@ -282,77 +284,77 @@ R2
 F../../user_design/rtl/controller/mig_7series_v1_9_bank_state.v
 L0 141
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_clk_ibuf
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 k8UjUFkdSbc`<ZG^BaUHG3
 I<``J1K3H<7Voi6VIL6_7]2
 R0
-R15
+R16
 8../../user_design/rtl/clocking/mig_7series_v1_9_clk_ibuf.v
 F../../user_design/rtl/clocking/mig_7series_v1_9_clk_ibuf.v
-Z23 L0 68
+Z24 L0 68
 R4
-Z24 !s108 1520405917.018000
-Z25 !s107 ../../user_design/rtl/clocking/mig_7series_v1_9_tempmon.v|../../user_design/rtl/clocking/mig_7series_v1_9_iodelay_ctrl.v|../../user_design/rtl/clocking/mig_7series_v1_9_infrastructure.v|../../user_design/rtl/clocking/mig_7series_v1_9_clk_ibuf.v|
-Z26 !s90 -reportprogress|300|-incr|../../user_design/rtl/clocking/mig_7series_v1_9_clk_ibuf.v|../../user_design/rtl/clocking/mig_7series_v1_9_infrastructure.v|../../user_design/rtl/clocking/mig_7series_v1_9_iodelay_ctrl.v|../../user_design/rtl/clocking/mig_7series_v1_9_tempmon.v|
+Z25 !s108 1520405917.018000
+Z26 !s107 ../../user_design/rtl/clocking/mig_7series_v1_9_tempmon.v|../../user_design/rtl/clocking/mig_7series_v1_9_iodelay_ctrl.v|../../user_design/rtl/clocking/mig_7series_v1_9_infrastructure.v|../../user_design/rtl/clocking/mig_7series_v1_9_clk_ibuf.v|
+Z27 !s90 -reportprogress|300|-incr|../../user_design/rtl/clocking/mig_7series_v1_9_clk_ibuf.v|../../user_design/rtl/clocking/mig_7series_v1_9_infrastructure.v|../../user_design/rtl/clocking/mig_7series_v1_9_iodelay_ctrl.v|../../user_design/rtl/clocking/mig_7series_v1_9_tempmon.v|
 !i113 0
 R5
 vmig_7series_v1_9_cmd_gen
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 0m4lgKNmf``eajmHn35S_0
 IJ8f1h2SjJXT9nb0]@En>73
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_cmd_gen.v
 F../rtl/traffic_gen/mig_7series_v1_9_cmd_gen.v
 L0 101
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_cmd_prbs_gen
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 o]KS<jBPJId=8bU_Mzo9V1
 IAlCL?cP3hJjEizPSTB8JE1
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_cmd_prbs_gen.v
 F../rtl/traffic_gen/mig_7series_v1_9_cmd_prbs_gen.v
-Z27 L0 71
+Z28 L0 71
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_col_mach
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 j_e7=fE4C0WX@j`l4XggL2
 I]dn0bZJazUGC3h:GW=1^V1
@@ -362,37 +364,37 @@ R2
 F../../user_design/rtl/controller/mig_7series_v1_9_col_mach.v
 L0 88
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_data_prbs_gen
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 ?61zT>O8CoYYolY^o1[eZ1
 IMjZIZ1Fg]_ATYlbFj`<Yj2
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_data_prbs_gen.v
 F../rtl/traffic_gen/mig_7series_v1_9_data_prbs_gen.v
-R19
+R20
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_ddr_byte_group_io
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 a90zM8DVgK1bBKQOQDMU01
 I3c2k:Sakmf3QcS;QUaN=]0
@@ -400,19 +402,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_group_io.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_group_io.v
-R10
+R11
 R4
-Z28 !s108 1520405918.958000
-Z29 !s107 ../../user_design/rtl/phy/mig_7series_v1_9_ddr_prbs_gen.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl_off_delay.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrcal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_top.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_tempmon.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_rdlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_prbs_rdlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_oclkdelay_cal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_init.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal_hr.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_ck_addr_cmd_delay.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_4lanes.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_of_pre_fifo.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy_wrapper.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_if_post_fifo.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_calib_top.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_lane.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_group_io.v|
-Z30 !s90 -reportprogress|300|-incr|../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_group_io.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_lane.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_calib_top.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_if_post_fifo.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy_wrapper.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_of_pre_fifo.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_4lanes.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_ck_addr_cmd_delay.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal_hr.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_init.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_oclkdelay_cal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_prbs_rdlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_rdlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_tempmon.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_top.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrcal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl_off_delay.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_prbs_gen.v|
+Z29 !s108 1520405918.958000
+Z30 !s107 ../../user_design/rtl/phy/mig_7series_v1_9_ddr_prbs_gen.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl_off_delay.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrcal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_top.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_tempmon.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_rdlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_prbs_rdlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_oclkdelay_cal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_init.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal_hr.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_ck_addr_cmd_delay.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_4lanes.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_of_pre_fifo.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy_wrapper.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_if_post_fifo.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_calib_top.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_lane.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_group_io.v|
+Z31 !s90 -reportprogress|300|-incr|../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_group_io.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_lane.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_calib_top.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_if_post_fifo.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy_wrapper.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_of_pre_fifo.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_4lanes.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_ck_addr_cmd_delay.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal_hr.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_init.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_oclkdelay_cal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_prbs_rdlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_rdlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_tempmon.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_top.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrcal.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl_off_delay.v|../../user_design/rtl/phy/mig_7series_v1_9_ddr_prbs_gen.v|
 !i113 0
 R5
 vmig_7series_v1_9_ddr_byte_lane
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 dZf4J;CKAo`LE^JUGkM7=2
 ICabn;5IKVIlPH7HEQBb=o3
@@ -420,19 +422,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_lane.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_byte_lane.v
-R19
+R20
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_calib_top
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 j`XD?S:kCRz@fPOCKc<mi3
 IhBm;dfS2be7AQGm42bWbU3
@@ -440,19 +442,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_calib_top.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_calib_top.v
-Z31 L0 82
+Z32 L0 82
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_if_post_fifo
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 O1aWjBC5g`Fcd?og[nBC=1
 I=<aR<QKo2Ym8@DelM<a<S2
@@ -460,19 +462,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_if_post_fifo.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_if_post_fifo.v
-R23
+R24
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_mc_phy
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 Dn1j3>2aKcX^3734PWWXW0
 IDEJ4aFNCm0Xh0SooWIK6a1
@@ -480,19 +482,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy.v
-R19
+R20
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_mc_phy_wrapper
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 li^dk?c[XcaA^I==EJ_kf1
 IFPVl=G09c>JPjTZ2Xcza10
@@ -500,19 +502,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy_wrapper.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_mc_phy_wrapper.v
-R27
-R4
 R28
+R4
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_of_pre_fifo
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 gF8R[Iz;S[>Md[_zTz=]60
 IboJ;D@7Kn?E7@67kY=<RX1
@@ -522,17 +524,17 @@ R2
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_of_pre_fifo.v
 L0 76
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_4lanes
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 <_Dn^53YDAi=<Um>FSA2S2
 I2hkKcJHeSa68jQIPaI7j11
@@ -540,19 +542,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_4lanes.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_4lanes.v
-R21
+R22
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_ck_addr_cmd_delay
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 d>V_0SkFY7bU74B@Hz>UO1
 IHoOIeBLLhXUSTiZHL?3Ci0
@@ -560,19 +562,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_ck_addr_cmd_delay.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_ck_addr_cmd_delay.v
-R23
+R24
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_dqs_found_cal
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 D[=e^VibZUI[0MfZ0=dP_3
 IUB7=G1m;@D2MnT1DJP<Cm0
@@ -580,16 +582,16 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal.v
-Z32 L0 79
+Z33 L0 79
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_dqs_found_cal_hr
-R22
-Z33 !s110 1520405919
+R23
+Z34 !s110 1520405919
 !i10b 1
 !s100 kXe:Gz`c>?_]Dia=mVWfH2
 INzlNn5YGH?>Tj`Ln4U4X>3
@@ -598,22 +600,22 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal_hr.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_dqs_found_cal_hr.v
-R32
+R33
 R4
 r1
 !s85 0
 31
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_init
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 ?HZzgkVFMaemRaVVGdcC30
 Ich3AHRz^NMD14YE9K<nlM1
@@ -623,17 +625,17 @@ R2
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_init.v
 L0 89
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_oclkdelay_cal
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 O3YNZfgbB21h<R5769Oja1
 I0RMn9QlE[^8GCYi<=co=d0
@@ -641,19 +643,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_oclkdelay_cal.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_oclkdelay_cal.v
-R10
+R11
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_prbs_rdlvl
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 <`=<J:f:gHATO6<SP[oLK3
 IC3V:0LoOdE?KJfV5Kk;_B3
@@ -661,19 +663,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_prbs_rdlvl.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_prbs_rdlvl.v
-R32
+R33
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_rdlvl
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 e4HJg[Xg?[gkO>b5N<EmR3
 I3?gEQDdYoVhRdfUV654h[2
@@ -681,19 +683,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_rdlvl.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_rdlvl.v
-Z34 L0 81
+Z35 L0 81
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_tempmon
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 VYYeeG:?[;CUJ7m<1V7aO3
 I;eMdSd^ROzbMlj_@T4cC50
@@ -701,19 +703,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_tempmon.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_tempmon.v
-R10
+R11
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_top
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 dG9haVL1d4iT:@:3@f_`l1
 IMn2IScE`j9::;XGe[<TcV3
@@ -721,19 +723,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_top.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_top.v
-R27
-R4
 R28
+R4
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_wrcal
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 dOeGCk]SKS@FF[^4k=Lg10
 I0LQ5U@[fMKk1i0_Fe>>KA0
@@ -741,19 +743,19 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrcal.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrcal.v
-Z35 L0 77
+Z36 L0 77
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_wrlvl
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 ^3oF7@HdNSAk;h91dW<<h1
 IVDXf38PSm=Zcma9YT[]>;1
@@ -763,14 +765,14 @@ R2
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl.v
 L0 90
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_phy_wrlvl_off_delay
-R22
-R33
+R23
+R34
 !i10b 1
 !s100 Onnb_1[ME6Ho5`VOiAkXH0
 IB<;7>6@mf@G4EmJmkNBzD3
@@ -779,22 +781,22 @@ R0
 R2
 8../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl_off_delay.v
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_phy_wrlvl_off_delay.v
-R23
+R24
 R4
 r1
 !s85 0
 31
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ddr_prbs_gen
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 glz[LjMNQSeh[V5zOMcF=3
 IVl`RR?`lGBU4ckk?:bWeG3
@@ -804,14 +806,14 @@ R2
 F../../user_design/rtl/phy/mig_7series_v1_9_ddr_prbs_gen.v
 L0 92
 R4
-R28
 R29
 R30
+R31
 !i113 0
 R5
 vmig_7series_v1_9_ecc_buf
-R22
-Z36 !s110 1520405918
+R23
+Z37 !s110 1520405918
 !i10b 1
 !s100 [9NSfBJAE_7<1RZfg^PQ>3
 IzKNAjVfo;AV=ch6Aj][<R0
@@ -820,19 +822,19 @@ R0
 R2
 8../../user_design/rtl/ecc/mig_7series_v1_9_ecc_buf.v
 F../../user_design/rtl/ecc/mig_7series_v1_9_ecc_buf.v
-R23
+R24
 R4
 r1
 !s85 0
 31
-Z37 !s108 1520405918.329000
-Z38 !s107 ../../user_design/rtl/ecc/mig_7series_v1_9_ecc_merge_enc.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_gen.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_dec_fix.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_buf.v|
-Z39 !s90 -reportprogress|300|-incr|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_buf.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_dec_fix.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_gen.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_merge_enc.v|
+Z38 !s108 1520405918.329000
+Z39 !s107 ../../user_design/rtl/ecc/mig_7series_v1_9_ecc_merge_enc.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_gen.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_dec_fix.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_buf.v|
+Z40 !s90 -reportprogress|300|-incr|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_buf.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_dec_fix.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_gen.v|../../user_design/rtl/ecc/mig_7series_v1_9_ecc_merge_enc.v|
 !i113 0
 R5
 vmig_7series_v1_9_ecc_dec_fix
-R22
-R36
+R23
+R37
 !i10b 1
 !s100 D9faOg@RGR7jF23faejzT0
 IYjoUT_l0M:HPgH:LHMFf21
@@ -846,14 +848,14 @@ R4
 r1
 !s85 0
 31
-R37
 R38
 R39
+R40
 !i113 0
 R5
 vmig_7series_v1_9_ecc_gen
-R22
-R36
+R23
+R37
 !i10b 1
 !s100 IRGoad8>b:=4a;UhiMNdc2
 I]lC`QW]]9B3j<_cogIViF2
@@ -867,14 +869,14 @@ R4
 r1
 !s85 0
 31
-R37
 R38
 R39
+R40
 !i113 0
 R5
 vmig_7series_v1_9_ecc_merge_enc
-R22
-R36
+R23
+R37
 !i10b 1
 !s100 U1c;f9MlR`CYaDej8_?bF3
 ICe_Vj82VNSgaK`40fT?DS1
@@ -883,82 +885,82 @@ R0
 R2
 8../../user_design/rtl/ecc/mig_7series_v1_9_ecc_merge_enc.v
 F../../user_design/rtl/ecc/mig_7series_v1_9_ecc_merge_enc.v
-R23
+R24
 R4
 r1
 !s85 0
 31
-R37
 R38
 R39
+R40
 !i113 0
 R5
 vmig_7series_v1_9_infrastructure
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 J>Ug]J1K1oVG91ONS5fEa1
 I65z76;<TLjnW1US0?:Iae0
 R0
-R15
+R16
 8../../user_design/rtl/clocking/mig_7series_v1_9_infrastructure.v
 F../../user_design/rtl/clocking/mig_7series_v1_9_infrastructure.v
-Z40 L0 78
+Z41 L0 78
 R4
-R24
 R25
 R26
+R27
 !i113 0
 R5
 vmig_7series_v1_9_init_mem_pattern_ctr
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 b9m[d47Dda7gY3S9CzA_N3
 IzM;<CzNL4C@bMZNfQR6Of3
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_init_mem_pattern_ctr.v
 F../rtl/traffic_gen/mig_7series_v1_9_init_mem_pattern_ctr.v
-R7
+R8
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_iodelay_ctrl
+R15
 R1
 r1
 !s85 0
 31
-R14
 !i10b 1
 !s100 RPUX:1jT<]]2QoRhE<flI0
 ID[8Q?mPhLCcd_HWA]hDbZ1
 R0
-R15
+R16
 8../../user_design/rtl/clocking/mig_7series_v1_9_iodelay_ctrl.v
 F../../user_design/rtl/clocking/mig_7series_v1_9_iodelay_ctrl.v
 L0 80
 R4
-R24
 R25
 R26
+R27
 !i113 0
 R5
 vmig_7series_v1_9_mc
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 Rld:4YMU@m0YlUK4ak<?53
 IMh3c7fDFTB8lU3n;XR3820
@@ -966,19 +968,19 @@ R0
 R2
 8../../user_design/rtl/controller/mig_7series_v1_9_mc.v
 F../../user_design/rtl/controller/mig_7series_v1_9_mc.v
-R20
+R21
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_mem_intfc
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 4dlQQzcBcQ<PYL3:iV3VH2
 Io:7I6YWS2DgR=H^Fi7D1G1
@@ -986,59 +988,59 @@ R0
 R2
 8../../user_design/rtl/ip_top/mig_7series_v1_9_mem_intfc.v
 F../../user_design/rtl/ip_top/mig_7series_v1_9_mem_intfc.v
-R19
+R20
 R4
-Z41 !s108 1520405918.723000
-Z42 !s107 ../../user_design/rtl/ip_top/mig_7series_v1_9_memc_ui_top_std.v|../../user_design/rtl/ip_top/mig_7series_v1_9_mem_intfc.v|
-Z43 !s90 -reportprogress|300|-incr|../../user_design/rtl/ip_top/mig_7series_v1_9_mem_intfc.v|../../user_design/rtl/ip_top/mig_7series_v1_9_memc_ui_top_std.v|
+Z42 !s108 1520405918.723000
+Z43 !s107 ../../user_design/rtl/ip_top/mig_7series_v1_9_memc_ui_top_std.v|../../user_design/rtl/ip_top/mig_7series_v1_9_mem_intfc.v|
+Z44 !s90 -reportprogress|300|-incr|../../user_design/rtl/ip_top/mig_7series_v1_9_mem_intfc.v|../../user_design/rtl/ip_top/mig_7series_v1_9_memc_ui_top_std.v|
 !i113 0
 R5
 vmig_7series_v1_9_memc_flow_vcontrol
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 >>8g]HPPNRB2UJ4^BFTfa1
 Igj7H91e56G>?zI<D[BWAF2
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_memc_flow_vcontrol.v
 F../rtl/traffic_gen/mig_7series_v1_9_memc_flow_vcontrol.v
-R19
+R20
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_memc_traffic_gen
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 5a^i=6CM42dXBC_DAQ:TB2
 II6FUPajK521@ml^0A=cZ?1
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_memc_traffic_gen.v
 F../rtl/traffic_gen/mig_7series_v1_9_memc_traffic_gen.v
-R34
+R35
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_memc_ui_top_std
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 ?[hn>_F^Z<CS_A`>dcQJX3
 I7XT]FVhz_M62ENCkL9m]o0
@@ -1046,19 +1048,19 @@ R0
 R2
 8../../user_design/rtl/ip_top/mig_7series_v1_9_memc_ui_top_std.v
 F../../user_design/rtl/ip_top/mig_7series_v1_9_memc_ui_top_std.v
-R21
+R22
 R4
-R41
 R42
 R43
+R44
 !i113 0
 R5
 vmig_7series_v1_9_rank_cntrl
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 ]naz<PUAXf7kSViXHV4Jn2
 I2EDMY1R44RnaNj5nBacKn0
@@ -1066,19 +1068,19 @@ R0
 R2
 8../../user_design/rtl/controller/mig_7series_v1_9_rank_cntrl.v
 F../../user_design/rtl/controller/mig_7series_v1_9_rank_cntrl.v
-R32
+R33
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_rank_common
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 C3@LZ:dAffD@@gConYH^n3
 IKV4LPP6P6`F7TmN]Sd8@E2
@@ -1086,19 +1088,19 @@ R0
 R2
 8../../user_design/rtl/controller/mig_7series_v1_9_rank_common.v
 F../../user_design/rtl/controller/mig_7series_v1_9_rank_common.v
-R21
+R22
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_rank_mach
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 i6<425m?E<D0T^gT@i2323
 ILCIUCRSiSnCPekRg0;5ZL1
@@ -1106,79 +1108,79 @@ R0
 R2
 8../../user_design/rtl/controller/mig_7series_v1_9_rank_mach.v
 F../../user_design/rtl/controller/mig_7series_v1_9_rank_mach.v
-R27
+R28
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_rd_data_gen
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 ?KigfMBB6?^LLzQFm82Xc2
 I5^T[4`en1C78JT<6M>kBA1
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_rd_data_gen.v
 F../rtl/traffic_gen/mig_7series_v1_9_rd_data_gen.v
-R10
-R4
 R11
+R4
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_read_data_path
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 K18@FMThbZYLV<9G_<31j1
 I3MDW^;z7J_3l6Y1d5k=C62
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_read_data_path.v
 F../rtl/traffic_gen/mig_7series_v1_9_read_data_path.v
-R21
+R22
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_read_posted_fifo
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 @Y0@1I3K`9@81Y5aEGnYQ3
 I@FL[TElMk4Z8>KbG0kl:G0
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_read_posted_fifo.v
 F../rtl/traffic_gen/mig_7series_v1_9_read_posted_fifo.v
-R10
-R4
 R11
+R4
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_round_robin_arb
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 5<]5R?VESi9QkkC_NIXPW1
 IdclN5jhGnRbhz1mn2bXCR0
@@ -1188,118 +1190,118 @@ R2
 F../../user_design/rtl/controller/mig_7series_v1_9_round_robin_arb.v
 L0 121
 R4
-R16
 R17
 R18
+R19
 !i113 0
 R5
 vmig_7series_v1_9_s7ven_data_gen
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 lTZoQ><jbE<ZE@U``KL_E1
 IXE80l9^h=F>VdU0a0U;oK0
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_s7ven_data_gen.v
 F../rtl/traffic_gen/mig_7series_v1_9_s7ven_data_gen.v
 L0 85
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_tempmon
-R14
+R15
 !s110 1520405917
 !i10b 1
 !s100 OV[4VZ[8EHEFc9Hm5HWUP3
 IoS824Qka8RdT^:CnJADz43
 R1
 R0
-R15
+R16
 8../../user_design/rtl/clocking/mig_7series_v1_9_tempmon.v
 F../../user_design/rtl/clocking/mig_7series_v1_9_tempmon.v
-R10
+R11
 R4
 r1
 !s85 0
 31
-R24
 R25
 R26
+R27
 !i113 0
 R5
 vmig_7series_v1_9_tg_prbs_gen
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 2eRh9Z=mgTcoHlVD:89^W3
 IaT4?BIZDHCMh=hH5^h1zE3
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_tg_prbs_gen.v
 F../rtl/traffic_gen/mig_7series_v1_9_tg_prbs_gen.v
-R31
+R32
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_tg_status
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 `B?lg<o7>lLBT01b^P``b0
 I=<Ma=Ic^@iAMNn2Dci;JT2
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_tg_status.v
 F../rtl/traffic_gen/mig_7series_v1_9_tg_status.v
-R19
+R20
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_traffic_gen_top
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 XK:iD=W7H0emX:VE?hLEY3
 IA@mJg6N2J<Z?R4863US]e1
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_traffic_gen_top.v
 F../rtl/traffic_gen/mig_7series_v1_9_traffic_gen_top.v
-R40
+R41
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_ui_cmd
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 a83@ghETzeDc9F3gN?cnb2
 I^RQd:5bhB1=^M>h:OIB2T2
@@ -1307,19 +1309,19 @@ R0
 R2
 8../../user_design/rtl/ui/mig_7series_v1_9_ui_cmd.v
 F../../user_design/rtl/ui/mig_7series_v1_9_ui_cmd.v
-R19
+R20
 R4
-Z44 !s108 1520405919.997000
-Z45 !s107 ../../user_design/rtl/ui/mig_7series_v1_9_ui_wr_data.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_top.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_rd_data.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_cmd.v|
-Z46 !s90 -reportprogress|300|-incr|../../user_design/rtl/ui/mig_7series_v1_9_ui_cmd.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_rd_data.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_top.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_wr_data.v|
+Z45 !s108 1520405919.997000
+Z46 !s107 ../../user_design/rtl/ui/mig_7series_v1_9_ui_wr_data.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_top.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_rd_data.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_cmd.v|
+Z47 !s90 -reportprogress|300|-incr|../../user_design/rtl/ui/mig_7series_v1_9_ui_cmd.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_rd_data.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_top.v|../../user_design/rtl/ui/mig_7series_v1_9_ui_wr_data.v|
 !i113 0
 R5
 vmig_7series_v1_9_ui_rd_data
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 kE<Oi6ZLiIo;WOLHKEaFK0
 IXa;9e8Y=ClY87SKkNBWYc2
@@ -1329,17 +1331,17 @@ R2
 F../../user_design/rtl/ui/mig_7series_v1_9_ui_rd_data.v
 L0 140
 R4
-R44
 R45
 R46
+R47
 !i113 0
 R5
 vmig_7series_v1_9_ui_top
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 U;AU[I=an]CAf:@Q;gH`V1
 I@[J]J<e^CKFI:c;L7OmGW1
@@ -1347,19 +1349,19 @@ R0
 R2
 8../../user_design/rtl/ui/mig_7series_v1_9_ui_top.v
 F../../user_design/rtl/ui/mig_7series_v1_9_ui_top.v
-R27
+R28
 R4
-R44
 R45
 R46
+R47
 !i113 0
 R5
 vmig_7series_v1_9_ui_wr_data
+R23
 R1
 r1
 !s85 0
 31
-R22
 !i10b 1
 !s100 8WQE[6QHG8SUAfdf5ZJ4X2
 IOc?lIzHOah9;L^kY7>Sae3
@@ -1369,72 +1371,73 @@ R2
 F../../user_design/rtl/ui/mig_7series_v1_9_ui_wr_data.v
 L0 131
 R4
-R44
 R45
 R46
+R47
 !i113 0
 R5
 vmig_7series_v1_9_vio_init_pattern_bram
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 k>E8JZmBe9`c11D2>=zI<2
 I:^18Dzd`^PD2@YTkmVl;H0
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_vio_init_pattern_bram.v
 F../rtl/traffic_gen/mig_7series_v1_9_vio_init_pattern_bram.v
-R19
+R20
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_wr_data_gen
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 U`9R;AnFgOHP_liHmC4ef2
 Iz4HG6cOeBEAGcHOi4>;gK3
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_wr_data_gen.v
 F../rtl/traffic_gen/mig_7series_v1_9_wr_data_gen.v
-R19
+R20
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vmig_7series_v1_9_write_data_path
+R9
 R1
 r1
 !s85 0
 31
-R8
 !i10b 1
 !s100 ]Q]RYCd4RQiSoNiQzdm4S0
 IoLkDif08[eC96AzCC`deH3
 R0
-R9
+R10
 8../rtl/traffic_gen/mig_7series_v1_9_write_data_path.v
 F../rtl/traffic_gen/mig_7series_v1_9_write_data_path.v
-R19
+R20
 R4
-R11
 R12
 R13
+R14
 !i113 0
 R5
 vsim_tb_top
+R6
 R1
 r1
 !s85 0
@@ -1443,10 +1446,10 @@ r1
 !s100 Te`BC5zFBV@PMN]V40<BF1
 Iz2gF@:3b[[=DYE^noI?L;2
 R0
-R6
+R7
 8../sim/sim_tb_top.v
 F../sim/sim_tb_top.v
-R35
+R36
 R4
 !s108 1520406198.807000
 !s107 ../sim/sim_tb_top.v|
@@ -1454,6 +1457,7 @@ R4
 !i113 0
 R5
 vWireDelay
+R6
 R1
 r1
 !s85 0
@@ -1462,7 +1466,7 @@ r1
 !s100 3M>eR1?A<A?f3OYQHENZ`0
 I6<6nSdnYdF3`P0?a]P60<3
 R0
-R6
+R7
 8../sim/wiredly.v
 F../sim/wiredly.v
 L0 91

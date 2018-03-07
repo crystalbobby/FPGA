@@ -1,0 +1,131 @@
+# Reading C:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do simulate_mti.do
+# D:/Xilinx/14.7/ISE_DS/ISE
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:56:38 on Mar 07,2018
+# vlog -reportprogress 300 -work work ../../../xaui_wrapper_gtx.v 
+# -- Compiling module xaui_wrapper_gtx
+# 
+# Top level modules:
+# 	xaui_wrapper_gtx
+# End time: 15:56:38 on Mar 07,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:56:38 on Mar 07,2018
+# vlog -reportprogress 300 -work work ../../../xaui_wrapper.v 
+# -- Compiling module xaui_wrapper
+# 
+# Top level modules:
+# 	xaui_wrapper
+# End time: 15:56:38 on Mar 07,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:56:38 on Mar 07,2018
+# vlog -reportprogress 300 -work work ../../example_design/xaui_wrapper_tx_sync.v 
+# -- Compiling module xaui_wrapper_tx_sync
+# 
+# Top level modules:
+# 	xaui_wrapper_tx_sync
+# End time: 15:56:38 on Mar 07,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:56:38 on Mar 07,2018
+# vlog -reportprogress 300 -work work ../../example_design/frame_gen.v 
+# -- Compiling module FRAME_GEN
+# 
+# Top level modules:
+# 	FRAME_GEN
+# End time: 15:56:39 on Mar 07,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:56:39 on Mar 07,2018
+# vlog -reportprogress 300 -work work ../../example_design/frame_check.v 
+# -- Compiling module FRAME_CHECK
+# 
+# Top level modules:
+# 	FRAME_CHECK
+# End time: 15:56:39 on Mar 07,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:56:39 on Mar 07,2018
+# vlog -reportprogress 300 -work work ../../example_design/xaui_wrapper_top.v 
+# -- Compiling module xaui_wrapper_top
+# -- Compiling module data_vio
+# -- Compiling module icon
+# -- Compiling module ila
+# 
+# Top level modules:
+# 	xaui_wrapper_top
+# End time: 15:56:39 on Mar 07,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:56:39 on Mar 07,2018
+# vlog -reportprogress 300 -work work ../demo_tb.v 
+# -- Compiling module DEMO_TB
+# 
+# Top level modules:
+# 	DEMO_TB
+# End time: 15:56:39 on Mar 07,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:56:39 on Mar 07,2018
+# vlog -reportprogress 300 -work work D:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v 
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# End time: 15:56:39 on Mar 07,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -gui -do "simulate_mti.do" 
+# Start time: 15:56:39 on Mar 07,2018
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# Loading work.DEMO_TB(fast)
+# Loading work.xaui_wrapper_top(fast)
+# Loading UNISIMS_VER.BUFG(fast)
+# Loading UNISIMS_VER.IBUFDS_GTXE1(fast)
+# Loading work.xaui_wrapper(fast)
+# Loading work.xaui_wrapper_gtx(fast)
+# Loading UNISIMS_VER.GTXE1(fast)
+# Loading work.xaui_wrapper_tx_sync(fast)
+# Loading work.FRAME_GEN(fast)
+# Loading UNISIMS_VER.RAMB16_S36_S36(fast)
+# Loading work.FRAME_CHECK(fast)
+# Loading UNISIMS_VER.FD(fast)
+# Loading work.FRAME_CHECK(fast__1)
+# Loading work.glbl(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: bobby  Hostname: BOBBY-PC  ProcessID: 8964
+# 
+#           Attempting to use alternate WLF file "./wlftms9hve".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlftms9hve
+# 
+# ------- TEST PASSED -------
+# ** Note: $stop    : ../demo_tb.v(187)
+#    Time: 91 us  Iteration: 0  Instance: /DEMO_TB
+# Break in Module DEMO_TB at ../demo_tb.v line 187
+# End time: 15:57:59 on Mar 07,2018, Elapsed time: 0:01:20
+# Errors: 0, Warnings: 2

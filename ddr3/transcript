@@ -1,0 +1,29 @@
+# Reading C:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do C:/Users/bobby/Documents/Verilog/ddr3/ipcore_dir/DDR3/example_design/sim/sim.do
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 15:48:52 on Mar 07,2018
+# vlog -reportprogress 300 ../rtl/*.v 
+# ** Error: (vlog-7) Failed to open design unit file "../rtl/*.v" in read mode.
+# 
+# No such file or directory. (errno = ENOENT)
+# End time: 15:48:52 on Mar 07,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/modeltech64_10.4/win64/vlog failed.
+# Error in macro C:\Users\bobby\Documents\Verilog\ddr3\ipcore_dir\DDR3\example_design\sim\sim.do line 80
+# C:/modeltech64_10.4/win64/vlog failed.
+#     while executing
+# "vlog  ../rtl/*.v"
